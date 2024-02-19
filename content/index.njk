@@ -1,0 +1,17 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+numberOfLatestPostsToShow: 3
+---
+{% set postslist = collections.posts  | head(-1) | reverse %}
+<h1>{{ postslist[0].data.title }}</h1>
+{{ postslist[0].templateContent | safe }}
+
+<ul>
+{% for tag in collections.all | getAllTags | filterTagList %}
+	{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a></li>
+{% endfor %}
+</ul>

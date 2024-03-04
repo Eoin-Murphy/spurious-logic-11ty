@@ -1,12 +1,17 @@
-#!/bin/bash
+#!/bin/bash -x
 set -euo pipefail
 npx @11ty/eleventy
 
-exec ./secrets/passwords.sh
+source 'secrets/passwords.txt'
+
+echo "Username: $username"
+echo "Password: $password"
+echo "URL: $url"
+echo "port: $port"
 
 # Log in to the FTP server
-lftp $FTP_SERVER $FTP_PORT << EOF
-user $FTP_USER $FTP_PASS
+lftp $url $port << EOF
+user $username $password
 set ssl:verify-certificate no
 cd webspace/httpdocs/sl
 mirror --delete --reverse _site .

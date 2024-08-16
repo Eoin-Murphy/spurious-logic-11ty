@@ -6,7 +6,7 @@ tags:
   - "meta"
 ---
 
-![](images/800px-HotSoupChennai.jpg "Hot Soup")
+![](/assets/img/800px-HotSoupChennai.jpg "Hot Soup")
 
 The worst thing about leaving your blog for a while, is that you stop writing.
 

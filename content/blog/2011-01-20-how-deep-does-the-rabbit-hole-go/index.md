@@ -5,7 +5,7 @@ tags:
   - "random"
 ---
 
-[![](images/Alice_par_John_Tenniel_02.png)](http://spurious-logic.net/how-deep-does-the-rabbit-hole-go)I find myself slipping more and more into extreme geekery.
+[![](/assets/img/Alice_par_John_Tenniel_02.png)](http://spurious-logic.net/how-deep-does-the-rabbit-hole-go)I find myself slipping more and more into extreme geekery.
 
 This week I've:
 

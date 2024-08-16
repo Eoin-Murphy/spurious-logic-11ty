@@ -5,7 +5,7 @@ tags:
   - "tale-of-moratalla"
 ---
 
-![moratallacrest](images/moratallacrest.png "moratallacrest")_"Señor Murphy, we heard that you used to play football. Maybe you'd be interested in a position which has just become available?"_ Paper finger wipes litter the floor, crackling underfoot as patrons talk at the bar. Gesticulating and loud, their coarse Spanish tobacco smoke curling up into the air with every exclamation. Behind the bar, a bear of a man stands with his white shirt open over an old vest, sleeves rolled up as he wipes glasses. A fly crawls on his shoulder.
+![moratallacrest](/assets/img/moratallacrest.png "moratallacrest")_"Señor Murphy, we heard that you used to play football. Maybe you'd be interested in a position which has just become available?"_ Paper finger wipes litter the floor, crackling underfoot as patrons talk at the bar. Gesticulating and loud, their coarse Spanish tobacco smoke curling up into the air with every exclamation. Behind the bar, a bear of a man stands with his white shirt open over an old vest, sleeves rolled up as he wipes glasses. A fly crawls on his shoulder.
 
 _"Our previous coach has decided to... ahem. avail of gardening leave."_ The speaker is wearing a lightweight suit. One of his feet keeps tapping nervously. As his face betrays the desperation he is trying to hide. He knows that the club, his club, have a unexpected opportunity to excel due to the administrative relegation of Lorca Deportiva CF. There is also the danger of overreaching and bankrupting the club. This is the pressure which their previous manager could not deal with.
 
@@ -25,19 +25,19 @@ Now on to the players. I'll just highlight who I think are the better players.
 
 GK: **Ancor**. Is actually not that bad. Not great, but absolutely fine at this level.
 
-[![](images/ancor001-300x91.png "ancor001")](http://spurious-logic.net/wp-content/uploads/2010/07/ancor001.png)
+[![](/assets/img/ancor001-300x91.png "ancor001")](http://spurious-logic.net/wp-content/uploads/2010/07/ancor001.png)
 
 GK backup: **Rodrigo De Paz** is transfer listed and is wanted by some other team. Looking at his stats I'm not sure why they want him, but I'll be happy to get him off the wage bill. **Luis Pérez García** is a promising 18 year old goalie. Probably will be good enough for this league in time but if we're getting promoted, he'll have to go.
 
 RB: **Daniel Leon**. Relatively good. Suits my style of having at least one attacking full back.
 
-[![leon001](images/leon001-300x91.png "leon001")](http://spurious-logic.net/wp-content/uploads/2010/07/leon001.png)
+[![leon001](/assets/img/leon001-300x91.png "leon001")](http://spurious-logic.net/wp-content/uploads/2010/07/leon001.png)
 
 LB: **Pablo**. Badly needs replacing. Fast (pace 14) and hard working but he can't defend, can't tackle and can't cross the ball.
 
 CB: **Marquinhos**.  Again, not too bad. A Brazilian import with huge influence. I'm hoping he'll be my captain once he picks up some Spanish.
 
-[![marquinhos001](images/marquinhos001-300x93.png "marquinhos001")](http://spurious-logic.net/wp-content/uploads/2010/07/marquinhos001.png)
+[![marquinhos001](/assets/img/marquinhos001-300x93.png "marquinhos001")](http://spurious-logic.net/wp-content/uploads/2010/07/marquinhos001.png)
 
 Other defenders: **Florea Iacob** (CB) is a physically imposing Romanian (again, no Spanish); **Pau** (CB, DM, MC) is another physical player and will probably be called in for cover in those positions; **Javier Rivero** is a very fast but technically poor 30 yr old right back
 

@@ -5,7 +5,7 @@ tags:
   - "tale-of-moratalla"
 ---
 
-![](images/eeeviiil.png "eeeviiil")A plan so underhand that I'm even ashamed to really consider it but it could help alleviate a lot of my money problems. So here it is.
+![](/assets/img/eeeviiil.png "eeeviiil")A plan so underhand that I'm even ashamed to really consider it but it could help alleviate a lot of my money problems. So here it is.
 
 The only revenue stream I can really control is friendly matches. I can't even lower my £1,200 a week salary to something more appropriate. The only way I can generate any income over the pre-season to help get the club finances some way out of the £200,000 hole they're in is to schedule as many friendlies as I possibly can.
 

@@ -5,7 +5,7 @@ tags:
   - "games"
 ---
 
-![](images/theWoundedManWeb.jpg "theWoundedManWeb")... I know you're reading this so this is what I would like you to do for your next game.
+![](/assets/img/theWoundedManWeb.jpg "theWoundedManWeb")... I know you're reading this so this is what I would like you to do for your next game.
 
 I've just watched the latest demo video for [Lionheart: King's Crusade](http://www.rockpapershotgun.com/2010/08/20/lionheart-kings-crusade-gamescom-trailer/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+RockPaperShotgun+(Rock,+Paper,+Shotgun)) and while it looks like a fun game; one thing got me. I think I've mentioned it before when talking about the [Total War](http://spurious-logic.net/?p=273) series but it was very clear from that demo.
 

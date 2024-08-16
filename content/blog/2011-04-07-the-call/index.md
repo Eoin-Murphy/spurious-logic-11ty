@@ -5,7 +5,7 @@ tags:
   - "spartan-folly"
 ---
 
-[![](images/Telephone_web.jpg "Telephone_web")](http://spurious-logic.net/the-call)It always starts with a call.
+[![](/assets/img/Telephone_web.jpg "Telephone_web")](http://spurious-logic.net/the-call)It always starts with a call.
 
 _"Hello?"_
 

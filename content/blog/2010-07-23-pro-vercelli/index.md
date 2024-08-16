@@ -5,7 +5,7 @@ tags:
   - "games"
 ---
 
-![provercelli](images/provercelli.png)If you have the 8 hours or so to follow a frankly fantastic blog detailing the fictional exploits of a real football team in Football Manager 2009.
+![provercelli](/assets/img/provercelli.png)If you have the 8 hours or so to follow a frankly fantastic blog detailing the fictional exploits of a real football team in Football Manager 2009.
 
 TESTING
 

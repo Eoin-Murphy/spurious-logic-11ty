@@ -5,7 +5,7 @@ tags:
   - "tale-of-moratalla"
 ---
 
-![](images/sinkingShip.jpg "sinkingShip")
+![](/assets/img/sinkingShip.jpg "sinkingShip")
 
 So yes we're about to start the same run of games again. The same first set of 9 games which gave us 11 points and propelled us into 11th spot. Now I know I had talked about a more attacking formation but as our first game is against he league leaders Castellón and our first choice goalkeeper is out injured, I might just stick to a more conservative gameplan, keep it tight and look for a breakaway goal.
 
@@ -49,7 +49,7 @@ For the final match of the quarter we're up against Mallorca 'B' and I'm incline
 
 After this fantastic series of results I can understand that my home town fans wouldn't be too impressed with me. They never come to matches so they don't get to complain. If you don't support us, then you can't knock us. The media on the other hand has decide to be enthusiastic in their dislike of me.
 
-[![](images/journalist.jpg "journalist")](http://spurious-logic.net/wp-content/uploads/2010/08/journalist.jpg)
+[![](/assets/img/journalist.jpg "journalist")](http://spurious-logic.net/wp-content/uploads/2010/08/journalist.jpg)
 
 In game terms I don't know what this means. The questions I'm being asked are always the same as are the answers. The team reactions don't seem to vary because of good or bad writeups from "The Moratalla Football Express" (distribution 50 judging from our attendances).
 

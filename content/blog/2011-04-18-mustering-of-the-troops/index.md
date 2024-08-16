@@ -5,7 +5,7 @@ tags:
   - "spartan-folly"
 ---
 
-[![](images/Englewood_1908_soccer_team_web.jpg "Englewood_1908_soccer_team_web")](http://spurious-logic.net/mustering-of-the-troops)
+[![](/assets/img/Englewood_1908_soccer_team_web.jpg "Englewood_1908_soccer_team_web")](http://spurious-logic.net/mustering-of-the-troops)
 
 _"ALAN, get in here!"_
 

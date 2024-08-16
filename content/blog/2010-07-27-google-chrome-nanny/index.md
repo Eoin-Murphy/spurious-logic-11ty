@@ -5,7 +5,7 @@ tags:
   - "dev"
 ---
 
-![nanny](images/nanny.jpg "nanny")I'll be the first to admit that I don't have the strongest willpower so the Google Crome Nanny extension is a godsend for my productivity. The fact that whole swathes of time consuming web content isn't available to me for specified times of the day means that I don't even waste the time fighting not to browse.
+![nanny](/assets/img/nanny.jpg "nanny")I'll be the first to admit that I don't have the strongest willpower so the Google Crome Nanny extension is a godsend for my productivity. The fact that whole swathes of time consuming web content isn't available to me for specified times of the day means that I don't even waste the time fighting not to browse.
 
 I have a list of sites blocked at specified times (09:00 - 12:30, 14:00 to 16:00) which are fairly flexible. I add to that list as I find timesink sites. Yes this one is on that list.
 

@@ -5,7 +5,7 @@ tags:
   - "sisyphean-design"
 ---
 
-[![](images/Ping-Pong_Zimnicea.jpg "Ping-Pong_Zimnicea")](http://spurious-logic.net/?p=1022)So here's a take on the simplest of simple games. One of the very first video games, implemented badly with massive hardware requirements and it still doesn't work as well as it did back in 1972. [Pong](http://en.wikipedia.org/wiki/Pong).
+[![](/assets/img/Ping-Pong_Zimnicea.jpg "Ping-Pong_Zimnicea")](http://spurious-logic.net/?p=1022)So here's a take on the simplest of simple games. One of the very first video games, implemented badly with massive hardware requirements and it still doesn't work as well as it did back in 1972. [Pong](http://en.wikipedia.org/wiki/Pong).
 
 using System;
 using OpenTK;

@@ -5,7 +5,7 @@ tags:
   - "random"
 ---
 
-[![](images/watch.jpg "watch")](http://spurious-logic.net/the-inevitable-march-of-time)
+[![](/assets/img/watch.jpg "watch")](http://spurious-logic.net/the-inevitable-march-of-time)
 
 So I was looking over some old sites I used to run. Thank you archive.org for keeping a record of sites which should have disappeared into the ether. Being a C.S. student means that I've had a webpage on and off since 1998 or so and the quality has, how will I say, _varied_ during that time. There's a couple of pieces which are fantastic, some which are nonsensical but most just make me cringe.
 

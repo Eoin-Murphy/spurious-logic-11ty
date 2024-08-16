@@ -5,23 +5,23 @@ tags:
   - "tale-of-moratalla"
 ---
 
-![meetThePress001](images/meetThePress001.png "meetThePress001")I don't trust my interpreter. Maybe it was the way he looked at me when we first met. Derision for a foreign manager, an outsider. "Spaniards are the worlds best footballers _and_ we have the best managers" he seemed to be thinking. Maybe it was the limp fish handshake, all soft palm and slightly cold, clammy skin. It could be he's just nervous about dealing with the press. Or, it could have been the look of absolute confusion crossed his face when I said "Hello". It was a full minute of furrowed brow concentration when he replied ["Jess, Hechlo"](http://www.youtube.com/watch?v=ma8Vwkpx5y8).
+![meetThePress001](/assets/img/meetThePress001.png "meetThePress001")I don't trust my interpreter. Maybe it was the way he looked at me when we first met. Derision for a foreign manager, an outsider. "Spaniards are the worlds best footballers _and_ we have the best managers" he seemed to be thinking. Maybe it was the limp fish handshake, all soft palm and slightly cold, clammy skin. It could be he's just nervous about dealing with the press. Or, it could have been the look of absolute confusion crossed his face when I said "Hello". It was a full minute of furrowed brow concentration when he replied ["Jess, Hechlo"](http://www.youtube.com/watch?v=ma8Vwkpx5y8).
 
 But he's all I've got as I must negotiate the potential minefield that is my first press conference. Afterwards  I'll be getting a first look at the players in action against the u19 squad.
 
-I will be witty, charming and funny but still serious and determined. Positive and hopeful while at the same time showing restraint and not putting too much pressure on the team for the year ahead. In short a borderline schizophrenic compulsive liar. ![press0001](images/press0001.png "press0001")
+I will be witty, charming and funny but still serious and determined. Positive and hopeful while at the same time showing restraint and not putting too much pressure on the team for the year ahead. In short a borderline schizophrenic compulsive liar. ![press0001](/assets/img/press0001.png "press0001")
 
 ... I've always wanted to manage an almost bankrupt 3rd division semi-professional team ...
 
-![press0002](images/press0002.png "press0002")
+![press0002](/assets/img/press0002.png "press0002")
 
 ...not mentioning that this defense is so porous that it could be used as pumice stone...
 
-![press0003](images/press0003.png "press0003")
+![press0003](/assets/img/press0003.png "press0003")
 
 ...because the current staff is so incompetent I don't trust them to organise a pissup in a brewery...
 
-![press0004](images/press0004.png "press0004")
+![press0004](/assets/img/press0004.png "press0004")
 
 ... for the slow people down the back; most of you are not worthy but we can't afford do drop anyone...
 

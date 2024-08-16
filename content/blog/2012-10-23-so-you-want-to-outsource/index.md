@@ -5,7 +5,7 @@ tags:
   - "dev"
 ---
 
-[![Government House Calcutta](images/800px-Government_House_Calcutta_from_Esplanade_Row_showing_the_S.E._gateway_by_William_Prinsep_1835.jpg "800px-Government_House,_Calcutta,_from_Esplanade_Row_showing_the_S.E._gateway_by_William_Prinsep_1835")](http://spurious-logic.net/?p=1688) It's finally happened, your business needs have outstripped your technical resources and you're not able to hire in staff locally. Someone, in a meeting somewhere mentions they "have a contact in India/China etc.." and suddenly you're committed to ramping up development team in some offsite location...
+[![Government House Calcutta](/assets/img/800px-Government_House_Calcutta_from_Esplanade_Row_showing_the_S.E._gateway_by_William_Prinsep_1835.jpg "800px-Government_House,_Calcutta,_from_Esplanade_Row_showing_the_S.E._gateway_by_William_Prinsep_1835")](http://spurious-logic.net/?p=1688) It's finally happened, your business needs have outstripped your technical resources and you're not able to hire in staff locally. Someone, in a meeting somewhere mentions they "have a contact in India/China etc.." and suddenly you're committed to ramping up development team in some offsite location...
 
 Here's what I've learned about how this will go, with some suggestions on how to do it better. My experience was with India but it could equally be Europe, Asia or America. Most of this advice applies across the board.
 

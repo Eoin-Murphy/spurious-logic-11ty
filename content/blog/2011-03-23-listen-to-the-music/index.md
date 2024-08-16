@@ -5,7 +5,7 @@ tags:
   - "music"
 ---
 
-[![](images/640px-Indiana_sheet_music_1.jpg "640px-Indiana_sheet_music_1")](http://spurious-logic.net/listen-to-the-music)
+[![](/assets/img/640px-Indiana_sheet_music_1.jpg "640px-Indiana_sheet_music_1")](http://spurious-logic.net/listen-to-the-music)
 
 As I've said [before](http://spurious-logic.net/emusic-frustrations) I'm a fairly long time user of eMusic but this has come to an end.
 

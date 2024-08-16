@@ -5,7 +5,7 @@ tags:
   - "sisyphean-design"
 ---
 
-[![](images/tangled_wires.jpg "tangled_wires")](http://spurious-logic.net/striding-forward-with-great-purpose-pt2)
+[![](/assets/img/tangled_wires.jpg "tangled_wires")](http://spurious-logic.net/striding-forward-with-great-purpose-pt2)
 
 I know I said I'd put together a tic-tac-toe game to get mouse input and element selection but I have a few issues with the code as it was presented in the last post.
 

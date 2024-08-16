@@ -5,7 +5,7 @@ tags:
   - "spartan-folly"
 ---
 
-[![](images/column_web.jpg "column_web")](http://spurious-logic.net/misdirected)
+[![](/assets/img/column_web.jpg "column_web")](http://spurious-logic.net/misdirected)
 
 Two flights, 12 hour in the air, one confused call the the club secretary from the arrivals hall in Athens International Airport and I finally arrive at [Croft Park, Northumberland](http://en.wikipedia.org/wiki/Croft_Park). Bottles of cheap ouzo clink in the airport duty free bags as I shuffle up to the club reception. A small group of staff are gathered with a limp banner emblazoned with "Welcome To Blyth Spartans Eion Murphy".
 
@@ -21,7 +21,7 @@ _"Ahm Alan Davies. Leets geet ta wirk"_
 
 Oh good.
 
-![](images/rolltop_web.jpg "rolltop_web")
+![](/assets/img/rolltop_web.jpg "rolltop_web")
 
 I'm shown to a small worn room containing a wooden desk, one chair on rollers (one wheel missing), one chair with spindly metal legs and cheap plastic seat, a battered blackboard and an overwhelming air of frustration. The only light is  bare and the narrow windows are high in the wall.
 

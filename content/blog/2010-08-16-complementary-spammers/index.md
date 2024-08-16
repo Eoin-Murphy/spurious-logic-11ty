@@ -5,7 +5,7 @@ tags:
   - "meta"
 ---
 
-![](images/cauliflower.jpg "cauliflower")So here's a short selection of the comments spam I've received over the last year or so:
+![](/assets/img/cauliflower.jpg "cauliflower")So here's a short selection of the comments spam I've received over the last year or so:
 
 If you are wondering how you can help with this or future events, please contact us . Also, you can contact other
 

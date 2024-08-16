@@ -5,7 +5,7 @@ tags:
   - "spartan-folly"
 ---
 
-_[![](images/locker_room_web.jpg "locker_room_web")](http://spurious-logic.net/personnel-issues)_
+_[![](/assets/img/locker_room_web.jpg "locker_room_web")](http://spurious-logic.net/personnel-issues)_
 
 _[](http://spurious-logic.net/wp-content/uploads/2011/04/locker_room_web.jpg)The dressing room door is a plain brown door decorated by a white sign with black lettering reading "Home". It's scuffed and scraped from hundreds of careless passers by brushing against it. It swings loosely and quietly when I push it inwards._
 

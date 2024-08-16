@@ -5,7 +5,7 @@ tags:
   - "dev"
 ---
 
-[![](images/Pisanello-Codex_Vallardi.jpg "Pisanello-Codex_Vallardi")](http://spurious-logic.net/getting-it-wrong)
+[![](/assets/img/Pisanello-Codex_Vallardi.jpg "Pisanello-Codex_Vallardi")](http://spurious-logic.net/getting-it-wrong)
 
 I've found that one of the big issues with managing is when a manager (or senior developer) gives instructions relating to a task to a developer and they fail to implement those instructions. This results either in the task not being completed, or being completed incorrectly. This can happen regardless of the nationality of either the manager or developer. The point of failure has to be one of the following:
 

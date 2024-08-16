@@ -5,7 +5,7 @@ tags:
   - "games"
 ---
 
-[![](images/sunrise.jpg "sunrise")](http://spurious-logic.net/in-the-beginning)
+[![](/assets/img/sunrise.jpg "sunrise")](http://spurious-logic.net/in-the-beginning)
 
 Beginnings are hard.
 

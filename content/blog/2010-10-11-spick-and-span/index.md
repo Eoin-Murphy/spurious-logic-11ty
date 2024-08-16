@@ -5,7 +5,7 @@ tags:
   - "sisyphean-design"
 ---
 
-[![](images/cherry_blossom.jpg "cherry_blossom")](http://spurious-logic.net/spick-and-span)
+[![](/assets/img/cherry_blossom.jpg "cherry_blossom")](http://spurious-logic.net/spick-and-span)
 
 **1) Timing:**
 

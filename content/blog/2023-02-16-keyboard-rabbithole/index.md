@@ -5,7 +5,7 @@ date: "2023-02-16"
 
 So, I've been using split keyboards for about 2 years now. I had been using a MS Natural 4000 for about 12 years but moving to 100% home office I was getting bad tennis elbow and started looking at smaller boards.
 
-[![](images/MS-Natural.jpg "Microsoft Natural 4000 keyboard")](http://spurious-logic.net/2023-02-16-keyboard-rabbithole/)
+[![](/assets/img/MS-Natural.jpg "Microsoft Natural 4000 keyboard")](http://spurious-logic.net/2023-02-16-keyboard-rabbithole/)
 ![MS Natural 4000 Keyboard](./images/MS-Natural.jpg)
 
 Initially I was more interested in something like the HHKB , smaller and without arrow keys to force me to use VIM properly and splits just seemed too "weird" to me to be practical.

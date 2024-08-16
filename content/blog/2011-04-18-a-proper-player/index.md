@@ -5,7 +5,7 @@ tags:
   - "spartan-folly"
 ---
 
-[![](images/piano_web.jpg "piano_web")](http://spurious-logic.net/a-proper-player)
+[![](/assets/img/piano_web.jpg "piano_web")](http://spurious-logic.net/a-proper-player)
 
 _You know what Bill Shankley once said? He said "A football team is like a piano. You need eight men to carry it and three who can play the damn thing."_
 

@@ -6,7 +6,7 @@ tags:
   - "random"
 ---
 
-[![](images/Workers_in_a_NY_Sweatshop.jpg "Workers_in_a_NY_Sweatshop")](http://spurious-logic.net/?p=1700) Really? Have we really come to this.
+[![](/assets/img/Workers_in_a_NY_Sweatshop.jpg "Workers_in_a_NY_Sweatshop")](http://spurious-logic.net/?p=1700) Really? Have we really come to this.
 
 I know it's been a while since I was on the market in any sense, but really?
 

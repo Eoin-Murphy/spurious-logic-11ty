@@ -5,7 +5,7 @@ tags:
   - "sisyphean-design"
 ---
 
-[![](images/sand_footprints.jpg "sand_footprints")](http://spurious-logic.net/1-01-baby-baby-steps)
+[![](/assets/img/sand_footprints.jpg "sand_footprints")](http://spurious-logic.net/1-01-baby-baby-steps)
 
 So here's the shortest example of getting an OpenGL window open with a polygon displayed inside it OpenTK. This is the effective implementation of the first example in the [OpenGL manual.](http://www.glprogramming.com/red/) (see below). This is pretty hacky code, designed just to illustrate the differences in approach between OpenGL and OpenTK, so don't use it as a standard to code against (or judge me by it).
 

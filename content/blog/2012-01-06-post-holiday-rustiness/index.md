@@ -5,7 +5,7 @@ tags:
   - "dev"
 ---
 
-[![](images/527px-Come_Take_a_drink.png "527px-Come!_Take_a_drink")](http://spurious-logic.net/wp-content/uploads/2012/01/527px-Come_Take_a_drink.png)
+[![](/assets/img/527px-Come_Take_a_drink.png "527px-Come!_Take_a_drink")](http://spurious-logic.net/wp-content/uploads/2012/01/527px-Come_Take_a_drink.png)
 
 There's nothing quite like coming back to a development job after two or more weeks out. That feeling of looking at code for the first time and not being able to see the meaning of the lines.
 

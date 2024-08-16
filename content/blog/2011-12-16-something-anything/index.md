@@ -10,7 +10,7 @@ It's good to post. Or to write. Something, anything. Just to remind yourself tha
 
 It would be an understatement to say it's been a busy few months but I'll spare you the deeply personal but yet stultifyingly dull details of everything which has gone on.
 
-Instead, I'm going to show you part of my commute...![](images/IMG_1149-1024x768.jpg "IMG_1149")
+Instead, I'm going to show you part of my commute...![](/assets/img/IMG_1149-1024x768.jpg "IMG_1149")
 
 it beats queuing in traffic for a roundabout. 15 mins seaside drive to a picturesque town. Then 10 mins back road spin to a business park.
 

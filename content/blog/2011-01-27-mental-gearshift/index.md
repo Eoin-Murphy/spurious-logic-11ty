@@ -5,7 +5,7 @@ tags:
   - "dev"
 ---
 
-[![](images/shift_gear_change_unit_web.jpg "shift_gear_change_unit_web")](http://spurious-logic.net/mental-gearshift)
+[![](/assets/img/shift_gear_change_unit_web.jpg "shift_gear_change_unit_web")](http://spurious-logic.net/mental-gearshift)
 
 And this is what happens if you're doing SQL and then get shunted up into procedural code and then back down again.
 

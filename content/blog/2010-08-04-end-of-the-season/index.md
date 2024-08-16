@@ -5,7 +5,7 @@ tags:
   - "tale-of-moratalla"
 ---
 
-![](images/spring001.png "spring001")The end of the season went by rather more quickly after the successes of the third quarter. The only way we'll be relegated is if there's a massive collapse in morale or a sudden spate of serious injuries.  Not only do we not collapse but we put together the best set of results for the entire season including a 4-0 win against a struggling team and a 1-0 win against the (then) league leaders.
+![](/assets/img/spring001.png "spring001")The end of the season went by rather more quickly after the successes of the third quarter. The only way we'll be relegated is if there's a massive collapse in morale or a sudden spate of serious injuries.  Not only do we not collapse but we put together the best set of results for the entire season including a 4-0 win against a struggling team and a 1-0 win against the (then) league leaders.
 
 In short:
 
@@ -17,7 +17,7 @@ In short:
 
 At the end of the season we're in 11th! We are officially midtable. (click for full table)
 
-[![](images/selectedl-leaguetable-2010final.png "selectedl-leaguetable-2010final")](http://spurious-logic.net/wp-content/uploads/2010/08/full-leaguetable-2010final.png)
+[![](/assets/img/selectedl-leaguetable-2010final.png "selectedl-leaguetable-2010final")](http://spurious-logic.net/wp-content/uploads/2010/08/full-leaguetable-2010final.png)
 
 The mid season signings of **José** and **Armiche** really turned out well and I think they are why we've finished so strongly. It really does give me hope that I can get to the playoffs at least next season. As for **Calderón** my early season striker, he was de-registered in January so hasn't played in all that time. And he still managed to get himself injured. So I'm going to offload him over the summer, hopefully bring in someone more robust.
 

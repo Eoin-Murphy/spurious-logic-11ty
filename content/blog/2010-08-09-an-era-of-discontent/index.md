@@ -5,7 +5,7 @@ tags:
   - "tale-of-moratalla"
 ---
 
-![](images/stormy750.jpg "stormy750") Those clouds you see are nothing compared to the storm in the club house of Moratalla. There you see beautiful steel greys and blues rolling over a peaceful verdant forest. We have only mud, rain and strife.
+![](/assets/img/stormy750.jpg "stormy750") Those clouds you see are nothing compared to the storm in the club house of Moratalla. There you see beautiful steel greys and blues rolling over a peaceful verdant forest. We have only mud, rain and strife.
 
 I feel I may have over reached. Inspired by our fine performances in the first quarter of the season I foolishly decided that a more forward thinking approach to the art of foot to ball would be an appropriate way to push the club forward.
 
@@ -29,11 +29,11 @@ The other covering player **Óscar Cases** has also failed to impress. I'm looki
 
 **Óscar Cases**
 
-[![](images/OscarCases-300x81.jpg "OscarCases")](http://spurious-logic.net/wp-content/uploads/2010/08/OscarCases.jpg)
+[![](/assets/img/OscarCases-300x81.jpg "OscarCases")](http://spurious-logic.net/wp-content/uploads/2010/08/OscarCases.jpg)
 
 **Sergio Montero** of Lorca
 
-[![](images/sergioMontero-300x80.jpg "sergioMontero")](http://spurious-logic.net/wp-content/uploads/2010/08/sergioMontero.jpg)
+[![](/assets/img/sergioMontero-300x80.jpg "sergioMontero")](http://spurious-logic.net/wp-content/uploads/2010/08/sergioMontero.jpg)
 
 The end result of this 3 match pasting we've suffered is that the team's dropped from a respectable 11th all the way to 18th. Unless this is going to turn into another relegation battle I'll have to do something between now and new years. I'm planning a return to the trusty warhorse of defend in depth and hope to grab an equaliser.
 
@@ -63,7 +63,7 @@ My makeshift centerback pairing of Kowalczyk and  Joe seems to be working. Ther
 
 For the last game of the year **Iacob** is back from his broken ribs and suddenly **Cavalleri** is reborn. He plays fantastically until he gets taken off injured. I'm starting to think that theirs is more than just a professional relationship and that he was pining. **Kowalczyk** comes on and again with **Iacob** next to him starts making clearing headers and interceptions like a seasoned pro. It's clear by now that **Iacob** is the key to my defence. He doesn't get great ratings himself but he's solid whoever's in next to him really improves. The match ends up nil all.
 
-![](images/winter003-300x217.png "winter003")
+![](/assets/img/winter003-300x217.png "winter003")
 
 **Inglesias** was put through on goal _again and again_ but just can't score. As I said, he's got the ability to be fantastic all he needs is that first goal and I think he'll be knocking them in for fun against everyone. The match ended with a draw and despite 3 forced substitutions the only injury is **Cavalleri** who is out for a month.
 
@@ -73,7 +73,7 @@ Last match of the quarter I go for a counter attacking 442 with slow, narrow tim
 
 In addition to this, I've signed a new Lithuanian striker, **Virginijus Ramonas,** who will hopefully spark the front two, providing a bit of a shake up and confidence boost to the team. Of course he scores within 5 minutes of his debut only for us to concede 10 minutes later to a long range screamer in off the post. The match stays at 1-1 but we're generating more of the chances and frankly, it's more interesting than the previous grind fests. Maybe with some more football like this we can attract in some crowds and keep ourselves up.
 
-[![](images/virginijusRamonas-300x82.jpg "virginijusRamonas")](http://spurious-logic.net/wp-content/uploads/2010/08/virginijusRamonas.jpg)
+[![](/assets/img/virginijusRamonas-300x82.jpg "virginijusRamonas")](http://spurious-logic.net/wp-content/uploads/2010/08/virginijusRamonas.jpg)
 
 After all that drama we're 16th. That's the play off relegation spot. But we're only 2 points off 15th spot (occupied by the team we just drew with) so we're not in too bad a situation. The collapse which threatened to happen during the three run of defeat was held off with some decent if not great displays.
 
@@ -86,13 +86,13 @@ In short:
 - 6 points from a potential 30 (1 point more than our worst quarter ever, with one extra game played)
 - 3 goals scored, 14 conceded
 
-[![](images/leaguetablewinter2010-300x225.jpg "leaguetablewinter2010")](http://spurious-logic.net/wp-content/uploads/2010/08/leaguetablewinter2010.jpg)
+[![](/assets/img/leaguetablewinter2010-300x225.jpg "leaguetablewinter2010")](http://spurious-logic.net/wp-content/uploads/2010/08/leaguetablewinter2010.jpg)
 
 When I get my board evaluation every month I see that consistently the most popular thing I have done all season is dump Guerrero. It'd be nice if I was liked because of some reason other than firing a player.
 
 I've made another new signing which I haven't mentioned. A 34 year old defensive minded central midfielder **Miguel Ángel Gálvez**. He is slow but I'm hoping that's not such a huge issue as he's not meant to be racing down the wings but pinging passes about and making timely interceptions. I'm also hoping I might be able to bring in another striker as I really need to start scoring and if Ramonas doesn't work out then I want to have options. Extra wide players would be nice as well. I'm even considering recalling **Caballero** from loan to provide backup/competition for **Otero**/**Martínez** as Cases has failed miserably to do so.
 
-[![](images/miguelAngelGalvez-300x83.jpg "miguelAngelGalvez")](http://spurious-logic.net/wp-content/uploads/2010/08/miguelAngelGalvez.jpg)
+[![](/assets/img/miguelAngelGalvez-300x83.jpg "miguelAngelGalvez")](http://spurious-logic.net/wp-content/uploads/2010/08/miguelAngelGalvez.jpg)
 
 In terms of signing players I talked before how limited my options are. Well also because of the registration rules of the Spanish league, when I find a player that's good enough for the team and want to join, they're usually over 22 and so take up one of the "older players" slots. This means any new "older players" I find has to be definitively better than what I've already got. And I have to operate a "one in, one out" policy which results in ill feeling and disruption within the squad. I'd love to sign players under 22 as a bunch of those slots are currently taken by u19 players who don't need to be registered at all , but they're either not good enough or don't want to join
 

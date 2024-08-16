@@ -5,7 +5,7 @@ tags:
   - "spartan-folly"
 ---
 
-[![](images/rain_bench_web.jpg "rain_bench_web")](http://spurious-logic.net/this-is-not-sparta)
+[![](/assets/img/rain_bench_web.jpg "rain_bench_web")](http://spurious-logic.net/this-is-not-sparta)
 
 _What inspires a man\* to get involved in football? For the players there's the money, lifestyle and the permission to play a game and call it a career. For successful managers and coaches theres the achievement of managing a squad, the plaudits of your peers and of course, the money from transfer backhanders._
 

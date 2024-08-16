@@ -5,7 +5,7 @@ tags:
   - "sisyphean-design"
 ---
 
-[![](images/houseOfMagic.jpg "houseOfMagic")](http://spurious-logic.net/1-0-the-set-up)
+[![](/assets/img/houseOfMagic.jpg "houseOfMagic")](http://spurious-logic.net/1-0-the-set-up)
 
 I'm working of the following assumptions:
 

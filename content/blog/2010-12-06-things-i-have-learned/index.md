@@ -5,7 +5,7 @@ tags:
   - "random"
 ---
 
-[![](images/snowy_dawn_web.jpg "snowy_dawn_web")](http://spurious-logic.net/things-i-have-learned)
+[![](/assets/img/snowy_dawn_web.jpg "snowy_dawn_web")](http://spurious-logic.net/things-i-have-learned)
 
 ... or confessions of a newborn's father.
 

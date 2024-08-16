@@ -5,7 +5,7 @@ tags:
   - "tale-of-moratalla"
 ---
 
-![](images/springDawn.jpg "springDawn") It's a crisp spring morning in the hillside town of Moratalla. Mist drifts slowly over dew encrusted fields while birds flutter from branch to branch. The glow over the eastern horizon shows the sun will be up soon. Bakers vans and post men move through the quiet streets. Their noises both muted and incongruously loud against the surrounding quiet.
+![](/assets/img/springDawn.jpg "springDawn") It's a crisp spring morning in the hillside town of Moratalla. Mist drifts slowly over dew encrusted fields while birds flutter from branch to branch. The glow over the eastern horizon shows the sun will be up soon. Bakers vans and post men move through the quiet streets. Their noises both muted and incongruously loud against the surrounding quiet.
 
 In a quite cul de sac away from the main street a man is loading his bags into a rented car.
 

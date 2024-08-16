@@ -5,7 +5,7 @@ tags:
   - "dev"
 ---
 
-[![](./images/frozenBranch.jpg "frozenBranch")](http://spurious-logic.net/frozen-branch)
+[![]((/assets/img/frozenBranch.jpg "frozenBranch")](http://spurious-logic.net/frozen-branch)
 
 Your typical agile release process is once every few weeks (Ours it the third Thursday of the month). You should have a code freeze at some before the release date so that the testers have a stable code base to test. In that period between code freeze and release the only changes to code which will be released should be for specific issues discovered with the frozen code.
 

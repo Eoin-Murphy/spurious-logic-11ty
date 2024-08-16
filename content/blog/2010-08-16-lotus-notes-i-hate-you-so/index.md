@@ -5,7 +5,7 @@ tags:
   - "dev"
 ---
 
-![](images/lotus.jpg "lotus")
+![](/assets/img/lotus.jpg "lotus")
 
 Lotus Notes I hate you so, neither client nor server always crashing, collecting data can you just deliver email?
 

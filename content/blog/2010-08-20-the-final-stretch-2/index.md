@@ -5,7 +5,7 @@ tags:
   - "tale-of-moratalla"
 ---
 
-![](images/badLands.jpg "badLands")We are a reserves team. Part timers playing pretend against professionals who weren't good enough for the big leagues or kids who have yet to make it big. This alone reinforces the brutal hierarchy of competence. _"You below us, you are not good enough to best our cast offs and rejects. You cannot improve, you cannot better yourselves. Your entire purpose is as a proving ground for us to use."_
+![](/assets/img/badLands.jpg "badLands")We are a reserves team. Part timers playing pretend against professionals who weren't good enough for the big leagues or kids who have yet to make it big. This alone reinforces the brutal hierarchy of competence. _"You below us, you are not good enough to best our cast offs and rejects. You cannot improve, you cannot better yourselves. Your entire purpose is as a proving ground for us to use."_
 
 This puts into perspective the hubris I had when I took this job on at the start. The belief that a team, properly organised and motivated could beat the odds and climb back up the table. That amateur players could climb the leagues. Maybe that is possible; I certainly didn't organise right or motivate enough.
 

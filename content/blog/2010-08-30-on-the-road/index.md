@@ -5,7 +5,7 @@ tags:
   - "travel"
 ---
 
-![](images/on_the_Road_web.jpg "on_the_Road_web")
+![](/assets/img/on_the_Road_web.jpg "on_the_Road_web")
 
 So this morning I had a two and a half hour commute. There's nothing like a 300km journey on motorways to let your mind wander. I found myself realising that if you were to make a 150 minute long game with exactly the same rules as driving (a) you'd have the worlds dullest game and/or (b)you'd have a commentary on the nature of travel.
 

@@ -5,7 +5,7 @@ tags:
   - "games"
 ---
 
-![](images/into_the_Basement_mod_web.jpg "into_the_Basement_mod_web")
+![](/assets/img/into_the_Basement_mod_web.jpg "into_the_Basement_mod_web")
 
 _but I have to._
 

@@ -5,7 +5,7 @@ tags:
   - "random"
 ---
 
-![](images/mistyBeach.jpg "mistyBeach")
+![](/assets/img/mistyBeach.jpg "mistyBeach")
 
 So I surf. Not very well, but like a lot of software developers I'm into geeky technical sports so I own the gear (surfboard and wetsuit) and I happen to live next to a surfing beach (it's shit but it's local so I get out as often as I can). Over the summer it was totally flat. Like pancake flat. Nary a ripple. The last 4 days though we've been on the tail end of hurricane Danielle and I've been out regularly.
 

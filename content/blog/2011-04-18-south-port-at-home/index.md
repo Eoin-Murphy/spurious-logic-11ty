@@ -5,7 +5,7 @@ tags:
   - "spartan-folly"
 ---
 
-[![](images/pole_web.jpg "pole_web")](http://spurious-logic.net/south-port-at-home)
+[![](/assets/img/pole_web.jpg "pole_web")](http://spurious-logic.net/south-port-at-home)
 
 _Alan, when were you going to mention him to me? It's not like he's not noticeable.  I mean, at 6'7" why haven't I spotted him before? Does he spend the whole time I'm around sitting down or something? I nearly had a heart attack when he loped onto the training pitch. You know when I say "I'd really like to get a good tall target man to allow us to vary our play" did you not think to mention him to me?_
 

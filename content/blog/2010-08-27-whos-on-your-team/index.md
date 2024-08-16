@@ -5,7 +5,7 @@ tags:
   - "dev"
 ---
 
-![](images/Post_Office_EngineersWeb.jpg "Post_Office_EngineersWeb")The days when developers did [this](http://folklore.org/StoryView.py?project=Macintosh&story=Switcher.txt&characters=Steve%20Jobs&sortOrder=Sort%20by%20Rating&detail=medium) sort of stuff, or indeed, [this](http://www.nucalc.com/Story/) are long gone.
+![](/assets/img/Post_Office_EngineersWeb.jpg "Post_Office_EngineersWeb")The days when developers did [this](http://folklore.org/StoryView.py?project=Macintosh&story=Switcher.txt&characters=Steve%20Jobs&sortOrder=Sort%20by%20Rating&detail=medium) sort of stuff, or indeed, [this](http://www.nucalc.com/Story/) are long gone.
 
 I was going to intro that with a "Sadly" but to be honest it's only sad for the management who exploited naive, passionate and gifted employees who "believed in the company". Those hackers who produced work out of love of what they were making rather than for fair payment also _allowed_ themselves to be exploited so it works both ways.
 

@@ -7,7 +7,7 @@ tags:
 
  
 
-![](images/800px-Dampfhammer2_brockhaus-300x190.jpg "800px-Dampfhammer2_brockhaus")
+![](/assets/img/800px-Dampfhammer2_brockhaus-300x190.jpg "800px-Dampfhammer2_brockhaus")
 
 ...crunch.
 

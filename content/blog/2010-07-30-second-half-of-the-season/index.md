@@ -5,7 +5,7 @@ tags:
   - "tale-of-moratalla"
 ---
 
-![](images/winter001.png "winter001")Here is an interesting quirk of how the Spanish league is organised; You play everyone in the first half of the season. And then, you play them all again, in the same order in the second half. It's somewhere between brilliant and lazy. Brilliant because it gives you a really good indication of how well you've improved or worsened over that time. Lazy because it's such a cop out from a scheduling point of view.
+![](/assets/img/winter001.png "winter001")Here is an interesting quirk of how the Spanish league is organised; You play everyone in the first half of the season. And then, you play them all again, in the same order in the second half. It's somewhere between brilliant and lazy. Brilliant because it gives you a really good indication of how well you've improved or worsened over that time. Lazy because it's such a cop out from a scheduling point of view.
 
 So for example, if you got five points from your first nine games, then anything above that would surely be an improvement and below that would be a drop. Switching from home to away would have an effect but over the time period surely it would even out.
 
@@ -35,7 +35,7 @@ In an idle minute I make the mistake of looking at our financials. We're sinking
 
 Our third match is a bore draw which I'm happy enough with.  More significant I hope is the arrival of a new left back **Armiche.** His defensive and physical stats are solid enough. But it's the workrate of 16 and teamwork of 20 which put him over the top. He's 29 now so I hope to get 2~3 good years out of him.
 
-[![](images/armiche001-300x81.png "armiche001")](http://spurious-logic.net/wp-content/uploads/2010/07/armiche001.png)
+[![](/assets/img/armiche001-300x81.png "armiche001")](http://spurious-logic.net/wp-content/uploads/2010/07/armiche001.png)
 
 We win our 4th match 2-0. Absolute deadlock for the start of the game. I was delighted with our backs (particularily **Armiche** who looks excellent already)  who barely let a shot in all game. Satisfied that they weren't going to score I switched to 442 with 30 minutes to go and **José** put in a fantastic header from outside the area as their keeper rushed out. **José** then linked up with **Rubén**, flicking on a header in a classic little and large goal.
 

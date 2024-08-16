@@ -5,7 +5,7 @@ tags:
   - "tale-of-moratalla"
 ---
 
-![](images/sideline002.png "sideline002")
+![](/assets/img/sideline002.png "sideline002")
 
 Well that was somewhat anticlimactic. It was a summer of coming's and goings. I didn't get players I wanted but I did get rid of players I didn't want.
 

@@ -5,7 +5,7 @@ tags:
   - "meta"
 ---
 
-[![](images/Sangallo2_web.jpg "Sangallo2_web")](http://spurious-logic.net/new-skin-much-like-the-old-skin) it's more webbish, but not too webbish...
+[![](/assets/img/Sangallo2_web.jpg "Sangallo2_web")](http://spurious-logic.net/new-skin-much-like-the-old-skin) it's more webbish, but not too webbish...
 
 ...it is actually coded in HTML5 even if that makes absolutely no difference whatsoever. The title above looks pants in IE8 or below since it's using @font-face to load up a new a new OTF font which seems not to work. It all looks great in Chrome and as I said in the info page, I'm not wasting my own time making a personal webpage cross-browser compatible. I know I could and probably should, but it's not necessary and not fun. I tried using a number of free fonts from [font squirrel](http://www.fontsquirrel.com/) as the main text font but despite looking great on the sample page they just looked jagged and un-antialised when I loaded them up. So back to Verdana.
 

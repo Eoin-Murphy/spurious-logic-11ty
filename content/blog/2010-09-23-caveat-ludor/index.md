@@ -5,7 +5,7 @@ tags:
   - "games"
 ---
 
-[![](images/dice.jpg "dice")](http://spurious-logic.net/caveat-ludor)
+[![](/assets/img/dice.jpg "dice")](http://spurious-logic.net/caveat-ludor)
 
 You magnificent bastard.
 

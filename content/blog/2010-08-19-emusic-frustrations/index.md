@@ -5,7 +5,7 @@ tags:
   - "music"
 ---
 
-![](images/musicMachine.jpg "musicMachine")I like eMusic.com, I really do. I've been a member since 2007 and I've given them €484.71 over the years and in return I've downloaded a huge number of songs, found band's I wouldn't have heard of before and generally found it good value for money.
+![](/assets/img/musicMachine.jpg "musicMachine")I like eMusic.com, I really do. I've been a member since 2007 and I've given them €484.71 over the years and in return I've downloaded a huge number of songs, found band's I wouldn't have heard of before and generally found it good value for money.
 
 Here's the thing. I've found over the last few months, that music I want to download, is marked as
 

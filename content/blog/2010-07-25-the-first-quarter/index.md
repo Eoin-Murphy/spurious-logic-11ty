@@ -5,7 +5,7 @@ tags:
   - "tale-of-moratalla"
 ---
 
-![](images/muddy-goal.png "muddy-goal")So, that didn't go too well. Not well at all.
+![](/assets/img/muddy-goal.png "muddy-goal")So, that didn't go too well. Not well at all.
 
 I won't lie, during our 4 game losing streak I _wanted_ them to lose. Having spent the first seven games ranting and raving from the sidelines, shouting, screaming, pleading, imploring I sit slouched and brooding in my dugout. . All the emotion, hope and energy gone. No more tactics forthcoming than "I don't care, just boot them off the park. See if that works. Tikki-takka my arse" .
 
@@ -35,7 +35,7 @@ I had tried encouraging and then shouting at the players. Some players don't lik
 
 On the plus side, after the **Marquinhos** debacle I managed to sign a half decent Argentinian/Spanish central defender **Cavalieri**. Not that big fast or strong, but neither is he particularly bad at anything. He's struggled so far as he's new to the squad, unfit and because I've had to rotate between Rivero and Pau as central defensive partners and neither are very good (first choice **Florian Iacob** is out injured)
 
-[![](images/carloscavalleri001-300x80.png "carloscavalleri001")](http://spurious-logic.net/wp-content/uploads/2010/07/carloscavalleri001.png)
+[![](/assets/img/carloscavalleri001-300x80.png "carloscavalleri001")](http://spurious-logic.net/wp-content/uploads/2010/07/carloscavalleri001.png)
 
 Off the pitch, things haven't been going too well either.
 

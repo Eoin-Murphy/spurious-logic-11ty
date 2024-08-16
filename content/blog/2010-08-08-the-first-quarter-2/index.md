@@ -5,7 +5,7 @@ tags:
   - "tale-of-moratalla"
 ---
 
-![](images/mortalla_town001.png "mortalla_town001")
+![](/assets/img/mortalla_town001.png "mortalla_town001")
 
 I've realised how to spot the teams which will cause trouble. They've all got really fancy crests.
 

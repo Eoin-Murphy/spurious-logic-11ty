@@ -5,7 +5,7 @@ tags:
   - "spartan-folly"
 ---
 
-[![](images/800px-Billiken_soccer_web.jpg "800px-Billiken_soccer_web")](http://spurious-logic.net/first-blood)
+[![](/assets/img/800px-Billiken_soccer_web.jpg "800px-Billiken_soccer_web")](http://spurious-logic.net/first-blood)
 
 _nerves_
 

@@ -7,7 +7,7 @@ tags:
 
 So the owners of Spurious-Logic.com finally got in contact with me and made me the most generous of offers:
 
-![spurious-sales](images/spurious-sales.jpg "spurious-sales")There's something about cyber-squatting that just gets up my nose...
+![spurious-sales](/assets/img/spurious-sales.jpg "spurious-sales")There's something about cyber-squatting that just gets up my nose...
 
 Oh yeah, it's the idea that you can make a profit for no work (beyond the minimal inital investment).
 

@@ -5,9 +5,9 @@ tags:
   - "tale-of-moratalla"
 ---
 
-_![](images/brazilbasque1.png "brazilbasque")"What do you mean Basque isn't an actual nationality? Are you sure? They've got their own national team don't they."_ So the Spanish league has some very specific rules on who can play for your team. _"How is it possible that a Brazilian is eligible to play for a national team of a region within Spain, but not actually be eligible to play for Spain or any other EU nation?"_ I'm getting dangerously close to losing my cool with this pompous Castillian paper pusher as I'm trying to get my future captain registered in time for the season. _"So there's no way we could consider Basque as a separate nation then, just in footballing terms? Hello? Hello?" \*_
+_![](/assets/img/brazilbasque1.png "brazilbasque")"What do you mean Basque isn't an actual nationality? Are you sure? They've got their own national team don't they."_ So the Spanish league has some very specific rules on who can play for your team. _"How is it possible that a Brazilian is eligible to play for a national team of a region within Spain, but not actually be eligible to play for Spain or any other EU nation?"_ I'm getting dangerously close to losing my cool with this pompous Castillian paper pusher as I'm trying to get my future captain registered in time for the season. _"So there's no way we could consider Basque as a separate nation then, just in footballing terms? Hello? Hello?" \*_
 
-![registration01](images/registration011.png "registration01")
+![registration01](/assets/img/registration011.png "registration01")
 
 That's right, no No-EU players. Do you remember my hoped to be captain, **Marquinhos**? The Brazilian. Looking at his profile, he's also listed as Basque. As far as I can tell my predecessor was either an idiot or a fervent Basque nationalist.
 
@@ -17,7 +17,7 @@ Football Manager is very much in the philosophical camp which says that your mot
 
 I also picked up another two players. **Nauzet Martínez** as a non scoring forward (FC AM R) who I'm planning on using as a wide attacker cum link player.
 
-[![](images/nauzetmartinez001-300x83.png "nauzetmartinez001")](http://spurious-logic.net/wp-content/uploads/2010/07/nauzetmartinez001.png)
+[![](/assets/img/nauzetmartinez001-300x83.png "nauzetmartinez001")](http://spurious-logic.net/wp-content/uploads/2010/07/nauzetmartinez001.png)
 
 And **Rafael** a promising renaissance painter.. wait no. A 16 year old defensive midfielder I spotted at the Spain Trial Day. I'm just going to drop him into the U19's for now and see if he's development material.
 

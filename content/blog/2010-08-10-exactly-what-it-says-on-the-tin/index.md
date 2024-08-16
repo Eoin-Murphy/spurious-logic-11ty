@@ -5,7 +5,7 @@ tags:
   - "dev"
 ---
 
-![](images/outerMongolia.jpg "outerMongolia") One of my biggest problems as a developer is limiting the changes I make.
+![](/assets/img/outerMongolia.jpg "outerMongolia") One of my biggest problems as a developer is limiting the changes I make.
 
 Initially, when you're a junior developer you're more focussed on learning how the system fits together, making sure your changes fix the defect and that you're not breaking the build.
 

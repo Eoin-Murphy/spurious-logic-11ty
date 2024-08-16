@@ -5,7 +5,7 @@ tags:
   - "tale-of-moratalla"
 ---
 
-![](images/theRules-150x150.png "theRules")So inspired by the [www.runofplay.com](http://www.runofplay.com/category/vercelli/page/1/) in chararacter narrative I'm going to try my own. I will take some small team and do my best to get them up the leagues. This is probably doomed to either fizzle out miserably due to a lack of time on my part or result in successive relegations and bankruptcy for the club following a catastrophic failure of management.
+![](/assets/img/theRules-150x150.png "theRules")So inspired by the [www.runofplay.com](http://www.runofplay.com/category/vercelli/page/1/) in chararacter narrative I'm going to try my own. I will take some small team and do my best to get them up the leagues. This is probably doomed to either fizzle out miserably due to a lack of time on my part or result in successive relegations and bankruptcy for the club following a catastrophic failure of management.
 
 The rules are as follows:
 

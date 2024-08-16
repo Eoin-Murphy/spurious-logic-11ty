@@ -5,7 +5,7 @@ tags:
   - "meta"
 ---
 
-![](images/Melancholia_web.jpg "Melancholia_web")All of them.
+![](/assets/img/Melancholia_web.jpg "Melancholia_web")All of them.
 
 So, sorry about that but I won't get around to fixing them until later.
 

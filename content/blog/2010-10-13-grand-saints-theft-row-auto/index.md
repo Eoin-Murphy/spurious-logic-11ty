@@ -5,7 +5,7 @@ tags:
   - "games"
 ---
 
- [![](images/saint-row.jpg "This, but with cars, hookers and explosions")](http://spurious-logic.net/grand-saints-theft-row-auto)Imagine if you will, if a 15 year old played grand theft auto (which is illegal since it's a certificate 18 game; but nevermind, most adults are really 15 year olds inside a grown-up's body) and thought "The action bits are fun but I don't want to have to deal with all that other crap."
+ [![](/assets/img/saint-row.jpg "This, but with cars, hookers and explosions")](http://spurious-logic.net/grand-saints-theft-row-auto)Imagine if you will, if a 15 year old played grand theft auto (which is illegal since it's a certificate 18 game; but nevermind, most adults are really 15 year olds inside a grown-up's body) and thought "The action bits are fun but I don't want to have to deal with all that other crap."
 
 I've only played little of Saints Row 2, but it does feel like the developers played GTA and thought, hmmnnn... It doesn't go quite over the top enough. After breaking out of jail (the tutorial) - which incidentally includes shooting police boats and choppers with a SAW from the back of a speeding boat\* the next mission is to free your former gang member from the courthouse. This of course involves ploughing through dozens of police and innocent bystanders. I particularly liked the judge judy-esque judge with a shotgun.
 

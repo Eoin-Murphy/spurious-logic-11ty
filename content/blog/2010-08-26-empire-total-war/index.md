@@ -5,7 +5,7 @@ tags:
   - "games"
 ---
 
-![](images/Amedeo_Preziosi_Istanbul_cafe.jpg "Amedeo_Preziosi_Istanbul_cafe") It crashes.
+![](/assets/img/Amedeo_Preziosi_Istanbul_cafe.jpg "Amedeo_Preziosi_Istanbul_cafe") It crashes.
 
 It used not crash. When I was running it at the very limit of capability of my old ATI card, I had to have all the settings dialled all the way down. The graphics were blocky and shadows were non-existent. The 3-d models rendered as 2d sprites unless I had the camera literally eye to eye\*. But it didn't crash. Looking at gameplay videos and screenshots where it actually looked pretty I was bitten by jealousy and took a look to see what hardware I could afford.
 

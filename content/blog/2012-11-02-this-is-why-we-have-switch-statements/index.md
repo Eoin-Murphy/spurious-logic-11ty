@@ -5,7 +5,7 @@ tags:
   - "dev"
 ---
 
-[![](images/train-switch.jpg "train-switch")](http://spurious-logic.net/this-is-why-we-have-switch-statements)
+[![](/assets/img/train-switch.jpg "train-switch")](http://spurious-logic.net/this-is-why-we-have-switch-statements)
 
 I came across a head-slappingly dumb bug earlier with a generic method. Which only occurred for Task types A or B. If you spot it, give yourself a "my isn't that obvious" cookie.
 

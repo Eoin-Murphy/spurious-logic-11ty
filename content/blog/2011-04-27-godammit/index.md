@@ -5,7 +5,7 @@ tags:
   - "dev"
 ---
 
-[![](images/rusty_fence_web.jpg "rusty_fence_web")](http://spurious-logic.net/godammit)
+[![](/assets/img/rusty_fence_web.jpg "rusty_fence_web")](http://spurious-logic.net/godammit)
 
 You know what's worse than getting a defect fix back in your queue?
 

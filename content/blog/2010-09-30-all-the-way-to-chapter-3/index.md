@@ -5,7 +5,7 @@ tags:
   - "sisyphean-design"
 ---
 
-[![](images/wireCube.png "wireCube")](http://spurious-logic.net/?p=1006)So I'm working my way back through the OpenGL Red book. Helpfully enough this is if for version 3.0 of OpenGL. The latest version being 4.1 and I'm running OpenTK which is a wrapper around OpenGL.
+[![](/assets/img/wireCube.png "wireCube")](http://spurious-logic.net/?p=1006)So I'm working my way back through the OpenGL Red book. Helpfully enough this is if for version 3.0 of OpenGL. The latest version being 4.1 and I'm running OpenTK which is a wrapper around OpenGL.
 
 Anyway, I'm working my way through examples and translating them to C#. Which if you know C++ and C# isn't really all that much of a stretch.
 

@@ -5,7 +5,7 @@ tags:
   - "sisyphean-design"
 ---
 
-[![](images/dead_end.jpg "dead_end")](http://spurious-logic.net/5-0-ye-cannae-change-the-laws-of-physics)
+[![](/assets/img/dead_end.jpg "dead_end")](http://spurious-logic.net/5-0-ye-cannae-change-the-laws-of-physics)
 
 As I mentioned in my previous post, I was looking at the physics of this and thought, _"hey, I did applied maths and honours level maths in school  (over a decade ago now) so surely I can whip together a simple yet precise physics engine"_.
 

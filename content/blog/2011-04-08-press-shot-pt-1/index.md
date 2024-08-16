@@ -5,7 +5,7 @@ tags:
   - "spartan-folly"
 ---
 
-[![](images/newspaper_web.jpg "newspaper_web")](http://spurious-logic.net/press-shot-pt-1)
+[![](/assets/img/newspaper_web.jpg "newspaper_web")](http://spurious-logic.net/press-shot-pt-1)
 
 \>>Preliminary copy for review >> Suggested tag line "Murph Manages Muckers"
 

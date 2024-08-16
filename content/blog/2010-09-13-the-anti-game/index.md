@@ -5,7 +5,7 @@ tags:
   - "games"
 ---
 
-[![](images/nothing.jpg "nothing")](http://spurious-logic.net/the-anti-game)
+[![](/assets/img/nothing.jpg "nothing")](http://spurious-logic.net/the-anti-game)
 
 So last week I went over on my ankle and as a result I couldn't go surfing this weekend. Fantastic waves or not. Having some free time I hobbled around the house doing a few chores and with my free time I messed around with a few games.
 

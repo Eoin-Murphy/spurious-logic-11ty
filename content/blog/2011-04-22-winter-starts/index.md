@@ -5,7 +5,7 @@ tags:
   - "spartan-folly"
 ---
 
-[![](images/blyth_beach_web.jpg "blyth_beach_web")](http://spurious-logic.net/winter-starts)
+[![](/assets/img/blyth_beach_web.jpg "blyth_beach_web")](http://spurious-logic.net/winter-starts)
 
 _Some players just want it more. They work harder in training, they stay longer and they're the ones busting a gut to make a difference come matchday. The thing is, they may be worse players than their more talented teammates but they'll still get picked first because you know you're going to get full effort from them whereas with as 'flair player' you don't know if they'll be an asset or a liability._
 
